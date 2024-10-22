@@ -1,6 +1,7 @@
 # GitHub Enterprise Foundations
 
 Class Date: October 22 - 23, 2024
+
 Facilitator: Connor Bottum, @c4llmeco4ch
 
 Feedback for this course can be left in this survey: https://www.surveymonkey.com/r/CCBKQF2
