@@ -1,12 +1,9 @@
-# GitHub Platform Tutorial (GPT)
+# GitHub Enterprise Foundations
 
-This repository serves to hold all the training material necessary for the GitHub Platform tutorial. Separate repos should be created for different instances of us teaching or using this material as this should be the private Coveros-only repo that everything stems from. If you have questions just ask the CODEOWNERS.
+Class Date: October 22 - 23, 2024
+Facilitator: Connor Bottum, @c4llmeco4ch
 
-The actual offering associated with this repository may have a different name. As of updating this it is now called `GitHub Enterprise Foundations`.
-
-### Once you create your version of the repo from the template be sure to update this README with the specifics of your offering. Also make sure to create an initial issue called `Add Your Comment`. This issue needs to ID 1 in the repo.
-
-This repo contains the entire ghas-bootcamp repository to cover the GHAS section of the platform tutorial.
+Feedback for this course can be left in this survey: https://www.surveymonkey.com/r/CCBKQF2
 
 ## Actions/Workflows we have created
 
